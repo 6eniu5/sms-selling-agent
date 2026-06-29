@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = git@github.com:6eniu5/sms-selling-agent-backend.git
+	url = https://github.com/6eniu5/sms-selling-agent-backend.git
 [submodule "frontend"]
 	path = frontend
-	url = git@github.com:6eniu5/sms-selling-agent-frontend.git
+	url = https://github.com/6eniu5/sms-selling-agent-frontend.git
